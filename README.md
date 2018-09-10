@@ -1,0 +1,2 @@
+# mojos
+hello dinchak
