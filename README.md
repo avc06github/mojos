@@ -1,3 +1,3 @@
 # mojos
 hello dinchak
-this is just for viwe what its give result
+this is just for view what its give result
